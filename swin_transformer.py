@@ -12,7 +12,6 @@ from module import Attention, PreNorm, FeedForward
 from pathlib import Path
 import numpy as np
 import re
-
 import time
 import math
 from datetime import datetime, timedelta
