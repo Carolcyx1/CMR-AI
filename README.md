@@ -5,6 +5,10 @@ A spatiotemporal representation fusion framework with curriculum-inspired progre
 
 The framework comprises two consecutive stages. The framework first learns diagnostic representations for normal control (NC), hypertrophic cardiomyopathy (HCM), and dilated cardiomyopathy (DCM), and then transfers the diagnostic representations to HCM- and DCM-specific survival prediction.
 
+The motivation:
+![本地图片描述](images/datasets.png)
+
+
 The training algorithm:
 ![本地图片描述](images/overview.png)
 
