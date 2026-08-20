@@ -1,0 +1,4 @@
+- `backbone_baseline_with_r3d18.py`: main multi-view diagnosis model and backbone comparison.
+- `main_diagnosis_full_hiermean_multiseed_fixedsplit.py`: multi-seed diagnosis experiments.
+- `cmr_fusion_strategy_baselines.py`: multi-view fusion ablation.
+- `run_complete_view_configuration.py`: complete view-configuration ablation.
