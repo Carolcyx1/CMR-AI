@@ -5,11 +5,13 @@ A spatiotemporal representation fusion framework with curriculum-inspired progre
 
 The framework comprises two consecutive stages. The framework first learns diagnostic representations for normal control (NC), hypertrophic cardiomyopathy (HCM), and dilated cardiomyopathy (DCM), and then transfers the diagnostic representations to HCM- and DCM-specific survival prediction.
 
-The motivation:
+#### The motivation:
+
 ![本地图片描述](images/datasets.png)
 
 
-The training algorithm:
+#### The training algorithm:
+
 ![本地图片描述](images/overview.png)
 
 ## Installation
@@ -38,7 +40,7 @@ Prognosis:
 python final_prognosis_code/final_prognosis_pipeline.py
 ```
 
-Please update the dataset, survival table, pretrained weight, diagnostic checkpoint, split, and segmentation model paths before running the code.
+Please update the dataset, survival table, pretrained weights, diagnostic checkpoint, split, and segmentation model paths before running the code.
 
 ## Data and weights
 
