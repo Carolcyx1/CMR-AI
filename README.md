@@ -1,4 +1,4 @@
-# Spatiotemporal Representation Fusion-based Progressive Diagnosis-to-Prognosis Curriculum Learning for Disease-Specific Survival Prediction from Multi-View Cine CMR
+# DPCL-CMR: Progressive Diagnosis-to-Prognosis Curriculum Learning with Multiview Spatiotemporal Fusion for Disease-Specific Survival Prediction from Cine CMR
 
 
 A spatiotemporal representation fusion framework with curriculum-inspired progressive diagnosis-to-prognosis learning for disease-specific survival prediction from real-world multiview cine CMR. 
