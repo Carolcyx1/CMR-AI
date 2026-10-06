@@ -12,7 +12,8 @@ The framework comprises two consecutive stages. The framework first learns diagn
 
 #### The training algorithm:
 
-![本地图片描述](images/overview.png)
+<img width="4308" height="2061" alt="overview" src="https://github.com/user-attachments/assets/4af4a5bf-9684-4d36-9969-507015e2c82a" />
+
 
 ## Installation
 
